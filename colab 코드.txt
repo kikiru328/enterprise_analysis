@@ -1,0 +1,8 @@
+# colab drive mount
+
+import os, sys
+from google.colab import drive
+drive.mount('/content/drive')
+my_path = '/content/notebooks'
+os.symlink('/content/drive/My Drive/Colab Notebooks', my_path)
+sys.path.insert(0,my_path)
