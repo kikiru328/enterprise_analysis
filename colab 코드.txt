@@ -15,7 +15,8 @@ sys.path.insert(0,my_path)
 ## 드라이브 마운트, 한글폰트설치코드 제외 셀 실행
 
 # Directory 변경 (모듈이용)
-cd '../content/notebooks'
+%pwd
+%cd '../content/notebooks'
 
 # module import
 ## Data Load
