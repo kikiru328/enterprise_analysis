@@ -6,3 +6,24 @@ drive.mount('/content/drive')
 my_path = '/content/notebooks'
 os.symlink('/content/drive/My Drive/Colab Notebooks', my_path)
 sys.path.insert(0,my_path)
+
+# 한글폰트
+!sudo apt-get install -y fonts-nanum
+!sudo fc-cache -fv
+!rm ~/.cache/matplotlib -rf
+## 돌리고 런타임 재시작
+## 드라이브 마운트, 한글폰트설치코드 제외 셀 실행
+
+# module import
+## Data Load
+from pickle5 import pickle
+
+## Basic Module
+import pandas as pd
+import numpy as np
+import datetime as dt
+import seaborn as sns
+import matplotlib.pyplot as plt
+plt.rc('font', family='NanumBarunGothic')
+
+
