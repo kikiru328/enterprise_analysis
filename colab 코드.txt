@@ -30,4 +30,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 plt.rc('font', family='NanumBarunGothic')
 
-
+# pickle data load
+# load
+with open('dir/file.pkl', 'rb') as file:
+  df = pickle.load(file)
+# save
+with open('dir/파일명.pkl', 'wb') as file:
+  pickle.dump(저장할데이터변수, file)
