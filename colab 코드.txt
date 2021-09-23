@@ -14,11 +14,14 @@ sys.path.insert(0,my_path)
 ## 돌리고 런타임 재시작
 ## 드라이브 마운트, 한글폰트설치코드 제외 셀 실행
 
+# Directory 변경 (모듈이용)
+cd '../content/notebooks'
+
 # module import
 ## Data Load
-from pickle5 import pickle
+from pickle5 import pickle 
 
-## Basic Module
+## Basic module
 import pandas as pd
 import numpy as np
 import datetime as dt
