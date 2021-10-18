@@ -11,4 +11,4 @@
 
 이 3명을 찍은 사람 : 김광훈
 
-[5조_최종발표.pptx](https://github.com/kikiru328/enterprise_analysis/files/7362213/5._.pptx)
+[5조_최종발표.pdf](https://github.com/kikiru328/enterprise_analysis/files/7362215/5._.pdf)
