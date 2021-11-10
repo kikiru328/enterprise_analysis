@@ -1,3 +1,6 @@
+## 발표영상
+https://youtu.be/GAzX1vdpVyQ
+
 # Ent_analysis
  Project (09/13-10/15)
  홍대병을 앓고 있는 4명; 권준기 / 김광훈 / 진유훈 / 채승혜
