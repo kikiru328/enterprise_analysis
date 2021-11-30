@@ -26,7 +26,7 @@ https://youtu.be/GAzX1vdpVyQ
  또한 추가적인 파생변수를 만들어내기 위해서 여러가지의 마케팅 정보를 습득하는데에 있어서 어려움을 겪었습니다.
  
 ### 팀원 Github
- 팀장 : 채승혜 https://github.com/SeunghyeChae
- 팀원 : 권준기 https://github.com/pkwon35
- 팀원 : 김광훈 https://github.com/kikiru328
- 팀원 : 진유훈 https://github.com/JINYUHOON
+ - 팀장 : 채승혜 https://github.com/SeunghyeChae
+ - 팀원 : 권준기 https://github.com/pkwon35
+ - 팀원 : 김광훈 https://github.com/kikiru328
+ - 팀원 : 진유훈 https://github.com/JINYUHOON
