@@ -2,7 +2,7 @@
 https://youtu.be/GAzX1vdpVyQ
 
 ### 발표자료
-[5조_최종최종발표자료.pdf](https://github.com/kikiru328/enterprise_analysis/files/7786007/5._.pdf)
+[enterprise_analysis_ppt.pdf](https://github.com/kikiru328/enterprise_analysis/files/7786007/5._.pdf)
 
 
 # Enterprise_analysis
