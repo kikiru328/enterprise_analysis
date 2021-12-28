@@ -1,6 +1,10 @@
 ## 발표영상
 https://youtu.be/GAzX1vdpVyQ
 
+### 발표자료
+[5조_최종최종발표자료.pdf](https://github.com/kikiru328/enterprise_analysis/files/7786007/5._.pdf)
+
+
 # Enterprise_analysis
 ![image](https://user-images.githubusercontent.com/60537388/143975906-d065dc4a-770c-44e8-b162-af7f12b35526.png)
 
