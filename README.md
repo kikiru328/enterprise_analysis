@@ -5,7 +5,7 @@
 
  L사의 데이터를 활용하여 고객의 구매 패턴을 파악한 후, 구매 감소 고객 예측 모델을 구축하여 특정 패턴을 보이는 고객에게 맞는 마케팅을 제언합니다.
  사용한 모듈을 다음과 같습니다.
- 
+     
 	Language : python
 	DB : oracle sql developer
 	Environment : google Colab
